@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saleik&label=Profile%20views&color=0e75b6&style=flat" alt="saleik" /> </p>
 
-- 🌱 I’m currently learning **Ruby/RubyOnRails**
+- 🌱 I’m currently learning **REACTJS/NODEJS/TS**
 
 - 📫 How to reach me **ksarrazin.dev@gmail.com**
 
